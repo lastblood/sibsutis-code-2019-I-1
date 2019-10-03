@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/sibsutis/homework/15/Fraction.c
+Fraction.h
+C:/sibsutis/homework/15/Fraction.h
+stdio.h
+-
+math.h
+-
+limits.h
+-
+stdlib.h
+-
+
+C:/sibsutis/homework/15/Fraction.h
+
+C:/sibsutis/homework/main.c
+15/Fraction.c
+C:/sibsutis/homework/15/Fraction.c
+
